@@ -71,7 +71,7 @@ Azure Machine learning Bootcamp のサンプルコードです。
     - テストデータを利用した推論
 
 <figure>
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/ahjTJ3YdP5Pa9Y" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/keitaonabuta/azure-machine-learning-20191127" title="Azure Machine Learning アップデートセミナー 20191127" target="_blank">Azure Machine Learning アップデートセミナー 20191127</a> </strong> from <strong><a href="//www.slideshare.net/keitaonabuta" target="_blank">Keita Onabuta</a></strong> </div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ahjTJ3YdP5Pa9Y" width="340" height="290" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/keitaonabuta/azure-machine-learning-20191127" title="Azure Machine Learning アップデートセミナー 20191127" target="_blank">Azure Machine Learning アップデートセミナー 20191127</a> </strong> from <strong><a href="//www.slideshare.net/keitaonabuta" target="_blank">Keita Onabuta</a></strong></div>
 </figure>
 
 # 環境準備
