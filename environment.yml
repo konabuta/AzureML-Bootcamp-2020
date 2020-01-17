@@ -9,7 +9,7 @@
 # $ conda activate cv
 # $ python -m ipykernel install --user --name automl-workshop
 # 
-name: automl-workshop
+name: azureml-bootcamp
 channels:
 - defaults
 - conda-forge

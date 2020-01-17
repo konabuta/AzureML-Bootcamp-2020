@@ -14,8 +14,8 @@
     ```
 1. conda 環境を有効します。また、 Jupyter のカーネルに登録します。
     ```
-    conda activate automl-workshop
-    python -m ipykernel install --user --name automl-workshop --display-name "Python (bootcamp)"
+    conda activate azureml-bootcamp
+    python -m ipykernel install --user --name azureml-bootcamp --display-name "Python (bootcamp)"
     ```
 1. Jupyter Notebook のサーバを開始します。Azure Machine Learning の Notebook VM (or Compute Instances) を利用する場合は不要です。
 
