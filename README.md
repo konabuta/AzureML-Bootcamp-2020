@@ -4,46 +4,10 @@ Azure Machine learning Bootcamp のサンプルコードです。
 
 ## Draft
 - **Module 0 : 環境準備**
-    - Azure Machine Learning ワークスペース作成
-    - Notebook VM (Compute Instance) 作成
-    - Training Cluster 作成
-
 - **Module 1 : 機械学習概論 & Azure Machine Learning ご紹介**
-    - 機械学習概論
-    - Azure Machine Learning 概要
-
 - **Module 2 : 自動機械学習 Automated ML ハンズオン**
-    - データのダウンロード
-        - データ : [nyc-taxi-sample-data.csv](https://quickstartsws9073123377.blob.core.windows.net/azureml-blobstore-0d1c4218-a5f9-418b-bf55-902b65277b85/quickstarts/nyc-taxi-data/nyc-taxi-sample-data.csv)
-    - データセット登録
-    - 自動機械学習 Automated Machine Learning (GUI)
-    - 結果の理解
-    - Strech Goal
-        - 与信管理モデル学習
-            - データ : [hmeq_ja.csv](https://github.com/konabuta/Automated-ML-Workshop/blob/master/data/hmeq_ja.csv)
 - **Module 3 : 機械学習モデルの解釈 ハンズオン**
-    - Notebook VM の起動
-    - 自動機械学習 Automated Machine Learning (Python SDK)
-    - モデルの解釈
-    - Strech Goal
-        - [scikit-learn モデルの解釈](https://github.com/solliancenet/azure-machine-learning-quickstarts/blob/master/aml-python-sdk/starter-artifacts/nbvm-notebooks/06-aml-interpretability/solution-interpretability-with-AML.ipynb)
-
-
 - **Module 4 : モデルのデプロイと運用 ハンズオン**
-    - Pytorch Estimator によるモデル開発
-    - 画像認識モデルのデプロイ
-    - テストデータを利用した推論
-    - Strech goal
-        - ノーコードデプロイメント
-        - ハイパーパラメータチューニング
-
-- 参考
-    - [azure-machine-learning-quickstarts](https://github.com/solliancenet/azure-machine-learning-quickstarts)
-    - [machine-learning-quickstarts](https://github.com/solliancenet/machine-learning-quickstarts)
-    - [azure-machine-learning-service-labs](https://github.com/solliancenet/azure-machine-learning-service-labs)
-    - [Azure-Machine-Learning-Dev-Guide](https://github.com/solliancenet/Azure-Machine-Learning-Dev-Guide)
-
-
 
 # 環境準備
 
@@ -86,9 +50,6 @@ Azure Machine Learning Workspace をセットアップします。詳細な手�
 - [モデル解釈可能性 (製品ドキュメント)](https://docs.microsoft.com/ja-JP/azure/machine-learning/service/how-to-machine-learning-interpretability)
 - [Automated ML Sample Notebook (Microsoft Official)](https://github.com/Azure/MachineLearningNotebooks/tree/master/how-to-use-azureml/automated-machine-learning)
 - [Probabilistic Matrix Factorization for Automated Machine Learning (Microsoft Research AutoML Meta Learning)](https://www.microsoft.com/en-us/research/publication/probabilistic-matrix-factorization-for-automated-machine-learning/)
-
 - [Interpret-Community (Interpret Library by Microsoft)](https://github.com/interpretml/interpret-community)
-
 - [Interpretable Machine Learning (General Guidance)](https://christophm.github.io/interpretable-ml-book/)
-
 - [機械学習モデル解釈ナイト (DLLAB)](https://dllab.connpass.com/event/153453/)
