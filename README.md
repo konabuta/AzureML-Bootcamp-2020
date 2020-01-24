@@ -2,7 +2,7 @@
 
 Azure Machine learning Bootcamp のサンプルコードです。
 
-## Draft
+## アジェンダ
 - **Module 0 : 環境準備**
 - **Module 1 : 機械学習概論 & Azure Machine Learning ご紹介**
 - **Module 2 : 自動機械学習 Automated ML ハンズオン**
