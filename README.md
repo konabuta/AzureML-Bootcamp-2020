@@ -9,6 +9,10 @@ Azure Machine learning Bootcamp のサンプルコードです。
 - **Module 3 : 機械学習モデルの解釈 ハンズオン**
 - **Module 4 : モデルのデプロイと運用 ハンズオン**
 
+# 資料
+
+[Azure Machine Learning 資料](https://www.slideshare.net/secret/r6VzwEwVrDOOFc)
+
 # 環境準備
 
 ### 必要なもの
